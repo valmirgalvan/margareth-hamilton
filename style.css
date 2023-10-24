@@ -1,0 +1,13 @@
+body { 
+    background-color: #FFF2D8;
+}
+
+#titulo {
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+    color:red;
+}
+
